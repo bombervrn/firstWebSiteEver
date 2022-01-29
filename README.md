@@ -1,4 +1,3 @@
-# hello-world
-first description just in case
+# Trying to make 1st web site
 
-just typing words here, nothing else
+**I'll make a description later**
